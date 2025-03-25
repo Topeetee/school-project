@@ -1,2 +1,2 @@
 #
-full beckend for a School managing all records 
+Full Backend for a School managing all records 
